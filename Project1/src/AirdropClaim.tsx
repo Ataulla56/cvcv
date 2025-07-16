@@ -57,3 +57,5 @@ export const AirdropClaim = ({
     </div>
   );
 };
+
+export default AirdropClaim;
